@@ -1,4 +1,4 @@
-# **house_price_pred**
+# **House Price Prediction**
 Creating a simple House Price Prediction Streamlit App
 
 A simple yet effective **Machine Learning app** built using **Streamlit** that predicts house prices based on size (in square feet). This project demonstrates the use of **Linear Regression** for a regression task, making it ideal for beginners in Data Science and ML.
