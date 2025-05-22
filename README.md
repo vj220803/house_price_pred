@@ -1,4 +1,4 @@
-# **House Price Prediction based in sqaure feet**
+# **House Price Prediction (sqaure feet)**
 Creating a simple House Price Prediction Streamlit App
 
 A simple yet effective **Machine Learning app** built using **Streamlit** that predicts house prices based on size (in square feet). This project demonstrates the use of **Linear Regression** for a regression task, making it ideal for beginners in Data Science and ML.
@@ -21,14 +21,11 @@ This app uses a small sample dataset to train a Linear Regression model, which p
 | pandas         | Data handling                  |
 | Git & GitHub   | Version control & deployment   |
 
-## Project Structure
-house_price_app/
-│
-├── house_price.py # Main Streamlit app
-├── requirements.txt # Required Python libraries
-├── README.md # Project documentation (current file)
+-----------------------------------------------
 
----
+``` ## Project Structure house_price_app/ │ ├── house_price.py # Main Streamlit app ├── requirements.txt # Required Python libraries ├── README.md # Project documentation (current file) ``` 
+
+---------
 
 ## Installation Instructions
 
