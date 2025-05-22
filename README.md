@@ -66,7 +66,9 @@ Vijayan Naidu
 Student at @ Fergusson College, Pune
 
 ## **Screenshot**
+![house_price_ss](https://github.com/vj220803/house_price_pred-single_feature-/blob/main/house_price(single_feature)_UI.PNG)
 https://1drv.ms/i/c/0dc8d4ddd66f20c7/ESIWqpYy0L9HkT7L-TjAa9YBVq-A_BUqC5Ez7_OoqSbBrA?e=sWXVi0
+
 
 
 
