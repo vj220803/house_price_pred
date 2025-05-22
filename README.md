@@ -26,7 +26,7 @@ This app uses a small sample dataset to train a Linear Regression model, which p
 
 ## Project Structure
 
-![project_strucutre]()
+![project_strucutre](https://github.com/vj220803/house_price_pred-single_feature-/blob/main/project_folder_structure.png)
 
 ```
 house_price_app/
@@ -36,7 +36,6 @@ house_price_app/
 ├── README.md # Project documentation (current file)
 
 ``` 
----------
 
 ## Installation Instructions
 
