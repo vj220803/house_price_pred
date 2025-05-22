@@ -6,6 +6,9 @@ A simple yet effective **Machine Learning app** built using **Streamlit** that p
 ## Overview
 This app uses a small sample dataset to train a Linear Regression model, which predicts the price of a house given its size. The app is deployed using **Streamlit Cloud**, and allows users to input square footage to get real-time predictions.
 
+## Flow of App Deployement
+![flow](https://github.com/vj220803/house_price_pred-single_feature-/blob/main/Building_app.png)
+
 ## Features
 - Simple and clean Streamlit web interface
 - Uses scikit-learn’s `LinearRegression` for model training
@@ -21,10 +24,18 @@ This app uses a small sample dataset to train a Linear Regression model, which p
 | pandas         | Data handling                  |
 | Git & GitHub   | Version control & deployment   |
 
------------------------------------------------
+## Project Structure
 
-``` ## Project Structure house_price_app/ │ ├── house_price.py # Main Streamlit app ├── requirements.txt # Required Python libraries ├── README.md # Project documentation (current file) ``` 
+![project_strucutre]()
 
+```
+house_price_app/
+│
+├── house_price.py # Main Streamlit app
+├── requirements.txt # Required Python libraries
+├── README.md # Project documentation (current file)
+
+``` 
 ---------
 
 ## Installation Instructions
